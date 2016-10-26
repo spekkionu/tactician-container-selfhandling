@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/spekkionu/tactician-container-selfhandling.svg?branch=master)](https://travis-ci.org/spekkionu/tactician-container-selfhandling)
 [![Code Coverage](https://scrutinizer-ci.com/g/spekkionu/tactician-container-selfhandling/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/spekkionu/tactician-container-selfhandling/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spekkionu/tactician-container-selfhandling/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spekkionu/tactician-container-selfhandling/?branch=master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/6e3dae70-b026-452e-92fd-d0d27b065aac/mini.png)](https://insight.sensiolabs.com/projects/6e3dae70-b026-452e-92fd-d0d27b065aac)
 
 ## Install
 
