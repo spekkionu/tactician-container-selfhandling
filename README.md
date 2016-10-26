@@ -1,7 +1,8 @@
 # Tactician Container-Aware Self-Handling Commands
 
-[![Latest Stable Version](https://poser.pugx.org/spekkionu/tactician-container-selfhandling/v/stable.png)](https://packagist.org/packages/spekkionu/tactician-container-selfhandling)
+[![Latest Stable Version](https://poser.pugx.org/spekkionu/tactician-container-selfhandling/v/stable)](https://packagist.org/packages/spekkionu/tactician-container-selfhandling)
 [![Build Status](https://travis-ci.org/spekkionu/tactician-container-selfhandling.svg?branch=master)](https://travis-ci.org/spekkionu/tactician-container-selfhandling)
+[![License](https://poser.pugx.org/spekkionu/tactician-container-selfhandling/license)](https://github.com/spekkionu/tactician-container-selfhandling/blob/master/LICENSE.md)
 [![Code Coverage](https://scrutinizer-ci.com/g/spekkionu/tactician-container-selfhandling/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/spekkionu/tactician-container-selfhandling/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spekkionu/tactician-container-selfhandling/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spekkionu/tactician-container-selfhandling/?branch=master)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/6e3dae70-b026-452e-92fd-d0d27b065aac/mini.png)](https://insight.sensiolabs.com/projects/6e3dae70-b026-452e-92fd-d0d27b065aac)
