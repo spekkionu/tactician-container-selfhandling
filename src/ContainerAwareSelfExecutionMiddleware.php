@@ -39,7 +39,7 @@ class ContainerAwareSelfExecutionMiddleware implements Middleware
     public function execute($command, callable $next)
     {
         if (!$command instanceof SelfExecutingCommand) {
-            return $next();
+            return $next($command);
         }
         if (!method_exists($command, 'handle')) {
             throw new CommandHasNoHandleMethodException('Command does not have handle method');
